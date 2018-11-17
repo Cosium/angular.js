@@ -1,5 +1,5 @@
 {
-  "name": "@cosium-oss/angularjs",
+  "name": "angularjs",
   "license": "MIT",
   "branchVersion": "^1.6.0",
   "branchPattern": "1.6.*",
